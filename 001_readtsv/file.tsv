@@ -1,4 +1,4 @@
-key value
-hoge    aaa
-piyo    bbb
-fuga    ccc
+key	value	int
+hoge	aaa	001
+piyo	bbb	002
+fuga	ccc	003
