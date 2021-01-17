@@ -11,7 +11,7 @@ Pythonのサンプル集
 | タイトル | 概要 | リンク |
 | :-- | :-- | :-- |
 | tsv読み込み | - | [readtsv.py](./001_readtsv/readtsv.py) |
-| classの宣言と使用 | - | [UseMyClass.py](./002_class/UseMyClass.py) |
+| classの宣言と使用 | - | [README.md](./002_class/README.md) |
 
 ### tsv読み込み
 
