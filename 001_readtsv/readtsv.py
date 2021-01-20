@@ -1,4 +1,4 @@
-# -*- encoding: utf-8 -*-
+# -*- coding: utf-8 -*-
 import csv
 
 with open('file.tsv', mode='r', newline='', encoding='utf-8') as f:
