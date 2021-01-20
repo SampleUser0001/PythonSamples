@@ -14,6 +14,7 @@ Pythonのサンプル集
 | classの宣言と使用 | - | [README.md](./002_class/README.md) |
 | dict型に配列をもたせる | - | [README.md](./003_dict_arrays/README.md) |
 | dict型 存在しないキーの扱い | - | [README.md](./004_dict_notFoundKey/README.md) |
+| dict型 キーの有無確認 | - | [README.md](./005_dict_containsKey/README.md) |
 
 ### tsv読み込み
 
