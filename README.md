@@ -12,6 +12,7 @@ Pythonのサンプル集
 | :-- | :-- | :-- |
 | tsv読み込み | - | [readtsv.py](./001_readtsv/readtsv.py) |
 | classの宣言と使用 | - | [README.md](./002_class/README.md) |
+| dict型に配列をもたせる | - | | [README.md](./003_dict_arrays/README.md) |
 
 ### tsv読み込み
 
