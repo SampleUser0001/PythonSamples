@@ -15,6 +15,7 @@ Pythonのサンプル集
 | dict型に配列をもたせる | - | [README.md](./003_dict_arrays/README.md) |
 | dict型 存在しないキーの扱い | - | [README.md](./004_dict_notFoundKey/README.md) |
 | dict型 キーの有無確認 | - | [README.md](./005_dict_containsKey/README.md) |
+| config.dictConfigによるyml->dict変換| - | - |
 
 ### tsv読み込み
 
